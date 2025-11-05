@@ -1,5 +1,7 @@
 # Hollow Descent
 
+[Watch the demo](https://youtu.be/5RCdGD0zczw)
+
 **Hollow Descent** is a 2D survival adventure game developed as a project for my CS583 Game Design class.  
 It was created in Unity using C#, and focuses on core gameplay systems such as crafting, combat, and resource gathering.  
 The goal of the project was to design a cohesive gameplay loop that encourages exploration, progression, and player decision-making.
