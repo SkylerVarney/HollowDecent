@@ -1,5 +1,9 @@
 # Hollow Descent
 
+<p align="center">
+  <img src="Screenshot.jpg" alt="Gameplay Screenshot" width="600">
+</p>
+
 [Watch the demo](https://youtu.be/5RCdGD0zczw)
 
 **Hollow Descent** is a 2D survival adventure game developed as a project for my CS583 Game Design class.  
